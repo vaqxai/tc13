@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "helios/tcxiii/shared/tc13_shine"
+	"$bumpmap" "null-bumpmap"
+
+	"$phong" "1"
+	"$phongexponent" "200"
+	"$phongboost" "1000.0"
+	"$phongfresnelranges" "[0 0.5 1]"
+}

@@ -16,6 +16,7 @@ Happy modding!
   * Part 2-3, Requirements, contains all conditions which have to be met in order to use the base.
 * Requirements for Editing
   * You can decompile and edit the base and use it to make any other model or addon if
+    * If you are making a different base out of this base, you have to add it as a pull request to the original repository.
     * All models made using the base have names starting with "tc13_", e.g. "tc13_104thlt.mdl" or have one of their parent directory names containing "tc13".
     * If the base is used to make a lua addon, there has to be a link to the base at the top of all files where the base is mentioned and/or used, alongside a comment "Made with TC13: <link>".
 * Requirements for Publishing
